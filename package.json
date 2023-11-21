@@ -2,11 +2,11 @@
   "name": "ecommerce-store-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "server": "nodemon index.js"
+    "server": "nodemon index.ts"
   },
   "author": "",
   "license": "ISC",
